@@ -1,6 +1,6 @@
 module github.com/fire9900/auth
 
-go 1.23.6
+go 1.24
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
